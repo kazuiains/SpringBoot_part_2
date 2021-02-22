@@ -1,0 +1,13 @@
+package com.adiyusuf.DosenAdita;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DosenAditaApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DosenAditaApplication.class, args);
+    }
+
+}
